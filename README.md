@@ -39,4 +39,4 @@ _Билет_  QR-код c уникальным кодом бронировани
 4. GIT
 
 ## Ссылка на проект
- https://killakode.github.io/diplom_netology/
+https://killakode.github.io/dimplom-last-hope-/
